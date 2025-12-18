@@ -1,0 +1,23 @@
+# =========================
+# Python / virtualenv
+# =========================
+venv/
+__pycache__/
+*.pyc
+
+# =========================
+# Vector databases
+# =========================
+chroma_db/
+
+# =========================
+# Data (raw + processed)
+# =========================
+data/papers/
+data/processed_json/
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+Thumbs.db
